@@ -33,3 +33,9 @@
 @import url("../blocks/places/__paragraph-block/places__paragraph-block.css");
 @import url("../blocks/places/__link/places__link.css");
 @import url("../blocks/places/__image/places__image.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__links/footer__links.css");
+@import url("../blocks/footer/__link/footer__link.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");
+@import url("../blocks/footer/__links-block/footer__links-block.css");
+@import url("../blocks/header/__lang-links/header__lang-links.css");

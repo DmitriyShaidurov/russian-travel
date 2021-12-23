@@ -1,0 +1,8 @@
+.footer__links-block {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  list-style: none;
+  color: white;
+  padding: 0;
+}

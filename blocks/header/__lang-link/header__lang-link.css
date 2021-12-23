@@ -8,5 +8,5 @@ transition: .6s linear;
 }
 
 .header__lang-link:hover {
-  opacity: .8;
+  opacity: .5;
 }
