@@ -1,0 +1,8 @@
+.places__website {
+  margin: 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-bottom: 48px;
+  width: 984px;
+}
