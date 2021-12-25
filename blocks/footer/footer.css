@@ -5,3 +5,16 @@
   align-items: flex-start;
   margin: 92px 48px 18px 48px;
 }
+
+@media screen and (max-width: 1023px) {
+  .footer {
+    margin: 88px 24px 18px 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    flex-direction: column;
+    margin: 64px 24px 24px 16px;
+  }
+}

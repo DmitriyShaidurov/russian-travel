@@ -1,4 +1,10 @@
-.footer__links-block {
+.footer__links {
   color: white;
   margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__links {
+    margin: 0 0 32px;
+  }
 }

@@ -6,3 +6,12 @@
   padding-bottom: 48px;
   width: 984px;
 }
+
+@media screen and (max-width: 767px) {
+  .places__website {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 32px;
+    margin: 0 16px;
+  }
+}
