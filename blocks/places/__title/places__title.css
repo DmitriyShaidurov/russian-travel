@@ -5,13 +5,11 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
-  width: 460px;
-  padding: 0 40px 0 0;
+  width: 468px; /* когда ставлю 100%, ширина блока варьируется с 460 по 468px. __website и __paragraph__block пляшут в perfect pixel   */
 }
 
 @media screen and (max-width: 1279px) {
   .places__title {
-    padding: 0 32px 0 0;
     width: 440px;
   }
 }
@@ -20,7 +18,6 @@
   .places__title {
     font-size: 42px;
     line-height: 46px;
-    padding: 0 38px 0 0;
     width: 330px;
   }
 }
@@ -29,7 +26,7 @@
   .places__title {
     font-size: 32px;
     line-height: 35px;
-    padding: 0 0 32px 0;
     width: 288px;
+    padding: 0 16px;
   }
 }

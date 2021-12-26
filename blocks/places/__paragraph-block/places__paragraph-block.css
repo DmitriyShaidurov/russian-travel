@@ -4,8 +4,7 @@
 }
 
 @media screen and (max-width: 1279px) {
-  .places__paragraph-block {/*
-    margin: 0 16px; */
+  .places__paragraph-block {
     margin: 0;
     width: 456px;
   }
@@ -22,5 +21,6 @@
   .places__paragraph-block {
     margin: 0 16px;
     width: 288px;
+
   }
 }
