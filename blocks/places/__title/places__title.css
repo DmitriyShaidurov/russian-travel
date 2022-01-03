@@ -1,11 +1,11 @@
 .places__title {
-  font-family: Inter;
+  font-family: 'Inter', 'Arial';
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   margin: 0;
-  width: 468px; /* когда ставлю 100%, ширина блока варьируется с 460 по 468px. __website и __paragraph__block пляшут в perfect pixel   */
+  width: 460px;
 }
 
 @media screen and (max-width: 1279px) {
